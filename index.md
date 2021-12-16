@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Casey Quinn
 
 You can use the [editor on GitHub](https://github.com/cquinn2020/cquinn2020.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
